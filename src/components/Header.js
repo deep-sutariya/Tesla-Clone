@@ -27,7 +27,7 @@ function Header() {
     return (
         <div className='hcontainer'>
 
-            <img src='/images/tesla-logo.svg' alt='' />
+            <img src='./images/tesla-logo.svg' alt='' />
 
 
             <div className='menu'>
