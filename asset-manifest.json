@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tesla-Clone/static/css/main.fb5e62c2.css",
-    "main.js": "/Tesla-Clone/static/js/main.ae9cba97.js",
-    "static/js/787.860837ff.chunk.js": "/Tesla-Clone/static/js/787.860837ff.chunk.js",
-    "index.html": "/Tesla-Clone/index.html",
-    "main.fb5e62c2.css.map": "/Tesla-Clone/static/css/main.fb5e62c2.css.map",
-    "main.ae9cba97.js.map": "/Tesla-Clone/static/js/main.ae9cba97.js.map",
-    "787.860837ff.chunk.js.map": "/Tesla-Clone/static/js/787.860837ff.chunk.js.map"
+    "main.css": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/css/main.fb5e62c2.css",
+    "main.js": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/main.e53b5fc6.js",
+    "static/js/787.860837ff.chunk.js": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/787.860837ff.chunk.js",
+    "index.html": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/index.html",
+    "main.fb5e62c2.css.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/css/main.fb5e62c2.css.map",
+    "main.e53b5fc6.js.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/main.e53b5fc6.js.map",
+    "787.860837ff.chunk.js.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb5e62c2.css",
-    "static/js/main.ae9cba97.js"
+    "static/js/main.e53b5fc6.js"
   ]
 }
