@@ -27,11 +27,7 @@ function Header() {
     return (
         <div className='hcontainer'>
 
-<<<<<<< HEAD
-            <img src={`${process.env.PUBLIC_URL}/images/tesla-logo.svg`} alt='' />
-=======
-            <img src='./images/tesla-logo.svg' alt='' />
->>>>>>> cf3c06cfe813c7af652084d525b31eb7feea6f0f
+            <img src='/images/tesla-logo.svg' alt='' />
 
 
             <div className='menu'>
