@@ -18,16 +18,20 @@ function Header() {
     }
     let headerKey=document.querySelector('header2');
     const scr=(index)=>{
-        if(index==0) headerKey.scrollIntoView()//headerKey.classList.toggle(window.scrollTo({top:0,behavior:"smooth"}));
-        if(index==1) headerKey.classList.toggle(window.scrollTo({top:10,behavior:"smooth"}));
-        if(index==2) headerKey.classList.toggle(window.scrollTo({top:20,behavior:"smooth"}));
-        if(index==3) headerKey.classList.toggle(window.scrollTo({top:30,behavior:"smooth"}));
+        if(index===0) headerKey.scrollIntoView()//headerKey.classList.toggle(window.scrollTo({top:0,behavior:"smooth"}));
+        if(index===1) headerKey.classList.toggle(window.scrollTo({top:10,behavior:"smooth"}));
+        if(index===2) headerKey.classList.toggle(window.scrollTo({top:20,behavior:"smooth"}));
+        if(index===3) headerKey.classList.toggle(window.scrollTo({top:30,behavior:"smooth"}));
     }
 
     return (
         <div className='hcontainer'>
 
+<<<<<<< HEAD
+            <img src={`${process.env.PUBLIC_URL}/images/tesla-logo.svg`} alt='' />
+=======
             <img src='./images/tesla-logo.svg' alt='' />
+>>>>>>> cf3c06cfe813c7af652084d525b31eb7feea6f0f
 
 
             <div className='menu'>
@@ -35,11 +39,7 @@ function Header() {
                 {cars && cars.map((car, index) => (
                     <li><a key={index} id='header2' href='#' onClick={()=>scr(index)}>{car}</a></li>
                 ))}
-
-                {/* <a href='#'>Model S</a>
-                <a href='#'>Model Y</a>
-                <a href='#'>Model 3</a>
-                <a href='#'>Model X</a> */}
+                
             </div>
 
             <div className='right_menu'>
