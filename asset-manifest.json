@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/css/main.fb5e62c2.css",
-    "main.js": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/main.e53b5fc6.js",
+    "main.css": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/css/main.a163394e.css",
+    "main.js": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/main.a117183f.js",
     "static/js/787.860837ff.chunk.js": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/787.860837ff.chunk.js",
+    "static/media/solar-roof.jpg": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
+    "static/media/solar-panel.jpg": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
+    "static/media/model-y.jpg": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/media/model-y.30acb76aab6f760a753a.jpg",
+    "static/media/model-3.jpg": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/media/model-3.30651f796c26e128fa1b.jpg",
+    "static/media/model-x.jpg": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/media/model-x.25937b941a6599342671.jpg",
+    "static/media/model-s.jpg": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/media/model-s.b65171b9fc7d94857753.jpg",
+    "static/media/accessories.jpg": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/media/accessories.027ada94d343f5d81f6d.jpg",
     "index.html": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/index.html",
-    "main.fb5e62c2.css.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/css/main.fb5e62c2.css.map",
-    "main.e53b5fc6.js.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/main.e53b5fc6.js.map",
+    "main.a163394e.css.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/css/main.a163394e.css.map",
+    "main.a117183f.js.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/main.a117183f.js.map",
     "787.860837ff.chunk.js.map": "https://github.com/deep-sutariya/Tesla-Clone/tree/master/public/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb5e62c2.css",
-    "static/js/main.e53b5fc6.js"
+    "static/css/main.a163394e.css",
+    "static/js/main.a117183f.js"
   ]
 }
